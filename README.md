@@ -1,2 +1,2 @@
-# webide-tv-series
+# Web IDE - Tv Series
 Web IDE training repository
